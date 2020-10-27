@@ -1,11 +1,10 @@
-<img src="./screenshot/screenshot.png" align="center"></img>
-##Todo List com Reactjs + Hooks + Redux + Localstorage
-<img src="./screenshot/screenshot2.png" align="center"></img>
+<img src="./screenshot/screenshot.png" align="center"/>
+<h1>Todo List com Reactjs + Hooks + Redux + Localstorage</h1>
+<img src="./screenshot/screenshot2.png" align="center"/>
 
-## Instalação
+## Instalação: yarn /npm install
 
-yarn /npm install
-<img align="center" src="./screenshot/movie.gif"></img>
+<img align="center" src="./screenshot/movie.gif"/>
 
 ## foi utilizado Redux Persist para LocalStorage
 
